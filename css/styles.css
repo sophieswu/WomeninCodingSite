@@ -1,0 +1,158 @@
+.mainarticle, .sidebar { display: table-cell; }
+
+.container {
+	margin: 0 auto;
+	width: 80%;
+	max-width: 960px;
+	background-color: rgba(255,255,251,0.85);
+	padding: 20px;
+}
+
+.sidebar { 
+	min-width: 300px; 
+	max-width: 400px;
+	padding: 0 20px 0 5px;
+}
+
+body {
+	color: #333333;
+	font-family: Helvetica, Arial, sans-serif;
+	background: url("../images/bk.png") repeat;
+}
+
+a { 
+	color: #72C4B9; 
+	text-decoration: none;
+}
+
+a:hover { color: #C472A6; }
+
+h1 { 
+	font-size: 30px;
+	margin-bottom: 0;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+header {
+	color: #39625C;
+	border-bottom: 1px solid #39625C; 	
+	font-style: italic;
+	margin-bottom: 15px;
+}
+
+h2 { 
+	color: #39625C;
+	text-decoration: underline; 
+	font-size: 20px;
+}
+
+h3 { 
+	color: #39625C;
+	font-style: italic; 
+	font-size: 18px;
+}
+
+h4 { 
+	color: #39625C;
+	font-style: italic;
+	font-size: 16px; 
+}
+
+.indent { padding-left: 50px; }
+
+figure {
+	float: right;
+}
+
+figcaption { color: #74918D; }
+
+table, th, td { border: 1px solid #39625C; } 
+
+th { 
+	background-color: #DBE3E2; 
+	color: #39625C;
+}
+
+td { background-color: #F1F4F3; }
+
+.push { 
+	text-indent: 20px; 
+	text-decoration: underline;
+}
+
+figure { 
+	display: table; 
+	width: 15px;
+}
+
+.end { 
+	border-top: 1px solid #39625C;
+	margin-top: 15px;
+}
+
+header a { color: #39625C; }
+
+nav ul {
+	margin: 0;
+	padding-left: 0;
+	list-style-type: none;
+	border-collapse: collapse;
+}
+
+nav li { 
+	border: 1px solid #39625C;
+	display: table-cell;
+}
+
+nav a {
+	color: #39625C;
+	background-color: #FFFFFB;
+	display: block;
+	padding: 5px 20px;
+}
+
+.here a {
+	color: #FFFFFB;
+	background-color: #39625C;
+}
+
+.full { 
+	width: 100%;
+	min-width: 350px;
+}
+
+.frontarticle { overflow: auto; }
+
+.frontphoto img { max-height: 200px; }
+
+@media (max-width: 900px) {
+	.mainarticle, .sidebar {
+		display: block;
+		width: auto;
+	}
+}
+
+@media (max-width: 700px) {
+	nav li {
+		display: block;
+	}
+	img { 
+		float: none;
+	}
+}
+
+@media (max-width: 600px) {
+	figure {
+		display: block;
+		width: 100%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
+@media (max-width: 500px) {
+	body {
+		background-image: none;
+		background-color: #FFFFFB;
+	}
+}

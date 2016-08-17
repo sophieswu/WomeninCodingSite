@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://swu38.rochestercs.org/project3/</loc>
+  <lastmod>2015-04-26T01:11:06+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://swu38.rochestercs.org/project3/index.html</loc>
+  <lastmod>2015-04-26T01:11:06+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://swu38.rochestercs.org/project3/elizabeth-feinler.html</loc>
+  <lastmod>2015-04-26T01:11:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://swu38.rochestercs.org/project3/grace-hopper.html</loc>
+  <lastmod>2015-04-26T01:11:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://swu38.rochestercs.org/project3/ada-lovelace.html</loc>
+  <lastmod>2015-04-26T01:11:08+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://swu38.rochestercs.org/project3/meg-whitman.html</loc>
+  <lastmod>2015-04-26T01:12:00+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
